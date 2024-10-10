@@ -1,11 +1,17 @@
+head {
+  background-color: white;
+}
 body {
-  background-image: "Noggin.webp";
+  background-image: src(Noggin.webp);
 }
 p {
   font-family: cursive;
   font-size: 20px;
-  text-align: center
+  text-align: center;
 }
 img {
-  image-align: center
+  image-align: center;
+}
+a {
+  text-align: center;
 }
