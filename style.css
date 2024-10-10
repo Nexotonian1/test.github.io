@@ -2,7 +2,10 @@ body {
   background-color: lightblue;
 }
 p {
-  font: cursive;
+  font-family: cursive;
   font-size: 20px;
   text-align: center
+}
+img src="Noggin.webp" alt="You've been Gnomed!" {
+  image-align: center
 }
