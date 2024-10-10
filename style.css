@@ -1,9 +1,6 @@
 head {
   background-color: white;
-  background-image
-}
-body {
-  background-image: url(Noggin.webp);
+  background-image:url("Noggin.webp");
 }
 p {
   font-family: cursive;
