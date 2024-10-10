@@ -1,9 +1,15 @@
+title {
+  text-color: blue;
+}
 head {
   background-color: white;
   background-image: url("Noggin.jpeg");
 }
 body {
   background-image: url("Noggin.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
 }
 p {
   font-family: cursive;
