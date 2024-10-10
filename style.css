@@ -3,7 +3,7 @@ head {
   background-image
 }
 body {
-  background-image: src(Noggin.webp);
+  background-image: url(Noggin.webp);
 }
 p {
   font-family: cursive;
