@@ -2,14 +2,14 @@ title {
   text-color: blue;
 }
 head {
-  background-color: white;
+  background-color: blue;
   background-image: url("Noggin.jpeg");
 }
 body {
   background-image: url("Noggin.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: white;
+  background-color: blue;
 }
 p {
   font-family: cursive;
