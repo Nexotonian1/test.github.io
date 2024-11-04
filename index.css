@@ -1,6 +1,6 @@
 head {
   background-color: yellow;
-  background-image: url="Noggin.jpeg";
+  background-image: url=("Noggin.jpeg");
   background-repeat: no;
 }
 
