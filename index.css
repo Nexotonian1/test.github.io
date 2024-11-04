@@ -1,0 +1,10 @@
+head {
+  background-color: yellow;
+  background-image: url="Noggin.jpeg";
+  background-repeat: no
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-color: #black;
+}
